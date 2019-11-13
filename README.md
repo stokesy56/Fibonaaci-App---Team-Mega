@@ -1,4 +1,4 @@
-# Sparta Node Sample App :sushi::hocho:
+# Sparta Node Sample App :sushi::hocho::japan:
 
 ## Description
 
