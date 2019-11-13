@@ -1,4 +1,4 @@
-# Sparta Node Sample App :sushi:
+# Sparta Node Sample App :sushi::hocho:
 
 ## Description
 
