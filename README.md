@@ -1,4 +1,4 @@
-# Sparta Node Sample App :sushi::hocho::japan::octocat::earth_asia::volcano::lollipop::dollar:
+# Sparta Node Sample App :sushi::hocho::japan::octocat::earth_asia::volcano::lollipop::dollar::dollar:
 
 ## Description
 
